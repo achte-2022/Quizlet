@@ -3,7 +3,7 @@
 ### [twitter](https://twitter.com/achte_te)
 
 ## Description
-
+A GUI based Quiz App that uses Open Trivia Database API.  
 
 ## Requirements
 
